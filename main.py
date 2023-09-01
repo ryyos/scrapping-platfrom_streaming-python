@@ -7,6 +7,7 @@ from bunker.link_card import take_all_sc
 
 # Memeriksa apakah skrip ini sedang dijalankan sebagai main utama
 if __name__ == '__main__':
+    # Membuat direktori untuk menyimpan hasil scraping
     os.mkdir('result')
     # Memanggil fungsi make_link_page dengan parameter URL 'https://otakudesu.lol/complete-anime/'
     link = make_link_page('https://otakudesu.lol/complete-anime/')
