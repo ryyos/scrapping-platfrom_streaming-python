@@ -1,6 +1,6 @@
 # Welcome to scrapping-platfrom_streaming-python 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
-[![Twitter: dumps](https://img.shields.io/twitter/follow/dumps.svg?style=social)](https://twitter.com/dumps)
+[![Twitter: Alexis11401746](https://img.shields.io/twitter/follow/Alexis11401746.svg?style=social)](https://twitter.com/dumps)
 
 > Project ini adalah tugas dari program magang di PT. INDONESIA INDIKATOR. Tujuan proyek ini adalah untuk mengembangkan sebuah sistem yang dapat melakukan web scraping pada sebuah platfrom streaming tertentu. Web scraping adalah teknik untuk mengumpulkan informasi dan data dari halaman web secara otomatis
 
