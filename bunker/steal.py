@@ -27,6 +27,16 @@ def take_data(link_card, page, all_data_page):
     nomor = 1
     for card_link in link_card:
 
+        apk2 = Service(executable_path='bunker/chromedriver.exe')
+        setting2 = Options()
+
+        setting2.add_experimental_option(
+            "excludeSwitches", ["enable-logging"])
+        setting2.add_argument('--headless')
+        driver2 = webdriver.Chrome(service=apk2, options=setting2)
+
+        print(f'link : {card_link}')
+
         # Membuka page yang diakses menggunakan driver Chrome
         driver2.get(card_link)
         # Mengambil seluruh sumber code page
