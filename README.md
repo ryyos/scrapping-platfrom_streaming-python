@@ -65,11 +65,6 @@ python main.py
 * Github: [@ryosyntaxx](https://github.com/ryosyntaxx)
 * LinkedIn: [@rio-dwi-saputra-23560b287](https://linkedin.com/in/rio-dwi-saputra-23560b287)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-[![support us](https://img.shields.io/badge/become-a patreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/Alexis520)
 
 ## License
 
